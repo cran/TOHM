@@ -1,0 +1,14 @@
+a9a9c850031efe11f8adeb7fc656fda7 *DESCRIPTION
+cfbbaf764de43bad9e6cf632d0515dc2 *NAMESPACE
+7df0977e9ad685f7d5b8e9c3a89345c3 *R/Functions_only.R
+7ad0431ff5f873f00f3feaa2111c632c *build/partial.rdb
+47a4c7993ee2926596b2cbca8c3b79c6 *man/EC_LRT.Rd
+5c338bc65b87637628a4f7244611240c *man/EC_T.Rd
+e2fc4acc8cbda0e400c9ec96da2ddfbb *man/ECden_vec.Rd
+988520409e78073b8601821095d49826 *man/Gauss_ECden.Rd
+c757878e740ffb6f9787b663ddea3743 *man/TOHM-package.Rd
+731bd47a651bcab7739570eacd9b57f9 *man/TOHM_LRT.Rd
+52fe9af2da25e0a1291a9d56a042e0cf *man/chi2_ECden.Rd
+7ab35afd8492d53ae319db160ad25b1c *man/find_max.Rd
+4993979d07a7373437171684d33d1a86 *man/gLRT.Rd
+b38b212bad6d5d2abfbf645fb3d22775 *man/global_p.Rd

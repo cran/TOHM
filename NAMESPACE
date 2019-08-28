@@ -1,0 +1,6 @@
+exportPattern("^[[:alpha:]]+")
+import("igraph", "Matrix", "nloptr")
+importFrom("Rmpfr", "mpfr")
+importFrom("methods", "as")
+importFrom("EQL", "hermite")
+importFrom("stats", "cov", "dist", "nlminb", "pchisq", "pnorm")
