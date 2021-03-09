@@ -1,7 +1,7 @@
-a9a9c850031efe11f8adeb7fc656fda7 *DESCRIPTION
+ced13e90f11b2e865368cf51c61a74e0 *DESCRIPTION
 cfbbaf764de43bad9e6cf632d0515dc2 *NAMESPACE
-7df0977e9ad685f7d5b8e9c3a89345c3 *R/Functions_only.R
-7ad0431ff5f873f00f3feaa2111c632c *build/partial.rdb
+b57f979ff7036e665384f6fc23deda97 *R/Functions_only.R
+89aa20c999fb21676f5e78bc2fd82dbb *build/partial.rdb
 47a4c7993ee2926596b2cbca8c3b79c6 *man/EC_LRT.Rd
 5c338bc65b87637628a4f7244611240c *man/EC_T.Rd
 e2fc4acc8cbda0e400c9ec96da2ddfbb *man/ECden_vec.Rd

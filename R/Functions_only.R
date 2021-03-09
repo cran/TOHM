@@ -114,7 +114,7 @@ chi2_ECden<-function(c,k,j){#c=1,j=1,k=1
             }
             add<-add+add_old
           }
-          value<-c^(0.5*(k-j))*exp(-c/2)*add/(2*pi^(j/2)*gamma(k/2)*2^(0.5*(k-2)))}
+          value<-c^(0.5*(k-j))*exp(-c/2)*add/((2*pi)^(j/2)*gamma(k/2)*2^(0.5*(k-2)))}
   return(value)
 }
 
